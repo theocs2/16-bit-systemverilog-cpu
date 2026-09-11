@@ -1,0 +1,10 @@
+build/
+.Xil/
+*.jou
+*.log
+*.vcd
+*.wdb
+*.str
+*.pb
+memory_contents.mif
+.DS_Store
